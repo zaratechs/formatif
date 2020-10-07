@@ -1,6 +1,7 @@
 /**
  * 1. Refactor the `user` argument to the login function to be a User interface.
  * 2. Fix the issue in the verifyPhone function.
+ * 3. Ajout
  */
 
 function login(user: { username: string, password: string }): boolean {
